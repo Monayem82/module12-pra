@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Aether Flux Wireless Headphones",
+    "price": 299.99,
+    "image": "https://images.example.com/products/headphones-01.jpg",
+    "category": "Electronics",
+    "rating": 4.8,
+    "stock": 45,
+    "description": "Next-generation noise cancellation with 60-hour battery life."
+  },
+  {
+    "id": 2,
+    "title": "Terraform Succulent Planter",
+    "price": 35.00,
+    "image": "https://images.example.com/products/planter-02.jpg",
+    "category": "Home Decor",
+    "rating": 4.5,
+    "stock": 120,
+    "description": "Hand-pressed ceramic pot with a self-watering drainage system."
+  },
+  {
+    "id": 3,
+    "title": "Summit Peak 40L Backpack",
+    "price": 145.50,
+    "image": "https://images.example.com/products/backpack-03.jpg",
+    "category": "Outdoors",
+    "rating": 4.9,
+    "stock": 22,
+    "description": "Weatherproof ripstop nylon designed for multi-day trekking."
+  },
+  {
+    "id": 4,
+    "title": "Nomad Solar Power Bank",
+    "price": 89.00,
+    "image": "https://images.example.com/products/powerbank-04.jpg",
+    "category": "Electronics",
+    "rating": 4.2,
+    "stock": 88,
+    "description": "20,000mAh capacity with integrated high-efficiency solar panels."
+  },
+  {
+    "id": 5,
+    "title": "Vantage Mechanical Keyboard",
+    "price": 120.00,
+    "image": "https://images.example.com/products/keyboard-05.jpg",
+    "category": "Computing",
+    "rating": 4.7,
+    "stock": 15,
+    "description": "Hot-swappable switches with customizable RGB backlighting."
+  },
+  {
+    "id": 6,
+    "title": "Artisan Roast: Espresso Blend",
+    "price": 18.99,
+    "image": "https://images.example.com/products/coffee-06.jpg",
+    "category": "Grocery",
+    "rating": 5.0,
+    "stock": 200,
+    "description": "Ethically sourced dark roast with notes of dark chocolate and cherry."
+  },
+  {
+    "id": 7,
+    "title": "Zenith Smart Watch Series 5",
+    "price": 399.00,
+    "image": "https://images.example.com/products/watch-07.jpg",
+    "category": "Wearables",
+    "rating": 4.6,
+    "stock": 34,
+    "description": "Blood oxygen monitoring and always-on 2026 OLED display."
+  },
+  {
+    "id": 8,
+    "title": "Velvet Dusk Scented Candle",
+    "price": 24.50,
+    "image": "https://images.example.com/products/candle-08.jpg",
+    "category": "Home Decor",
+    "rating": 4.3,
+    "stock": 65,
+    "description": "Soy wax blend featuring sandalwood and midnight jasmine scents."
+  },
+  {
+    "id": 9,
+    "title": "Titanium Multi-Tool 12-in-1",
+    "price": 55.00,
+    "image": "https://images.example.com/products/tool-09.jpg",
+    "category": "Tools",
+    "rating": 4.8,
+    "stock": 50,
+    "description": "Pocket-sized aircraft-grade titanium tool for daily repairs."
+  },
+  {
+    "id": 10,
+    "title": "HydraFlow Glass Water Bottle",
+    "price": 32.00,
+    "image": "https://images.example.com/products/bottle-10.jpg",
+    "category": "Lifestyle",
+    "rating": 4.4,
+    "stock": 110,
+    "description": "BPA-free borosilicate glass with a protective silicone sleeve."
+  }
+]
