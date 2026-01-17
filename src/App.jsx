@@ -1,5 +1,6 @@
 import './App.css'
 import Body from './component/Body'
+import CustomHook from './component/CustomHook'
 import Featch from './component/Featch'
 import GiveCard from './component/GiveCard'
 import SetGols from './component/SetGols'
@@ -12,6 +13,8 @@ function App() {
   return (
     <>
       <div>
+
+        <CustomHook></CustomHook>
 
         <UseReducer></UseReducer>
         
